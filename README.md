@@ -1,27 +1,34 @@
-# OtsemboPortfolio
+# Otsembo Portfolio
+Hey you, this is my personal portfolio web application.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+Tools
+-----
+The application has been built using the following:
+* [Angular 12.2](https://angular.io/)
+* [Bootstrap](https://getbootstrap.com/)
+* CSS3
+* HTML5
+* Typescript
+* GitHub Projects (Project Management using Kanban)
 
-## Development server
+Description
+-----------
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The application is my person portfolio that is built using Angular.
+I was trying to learn Angular for a new role I had got in mid 2021.
+The application has been hosted on GitHub pages. Use the following link to know how to host your Angular CLI applications on GitHub pages [Host Angular Apps on GH Pages](https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4).
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Installation
+------------
 
-## Build
+In order to install this application you will need to do follow these easy steps:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Clone the application to your local machine
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+        git clone https://github.com/otsembo/OtsemboPortfolio.git
+- Open the terminal from the root folder and serve the application
+        
+        ng serve -o
+- Enjoy the application. Feel free to edit and make your own portfolios.
+  
